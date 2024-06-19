@@ -1,2 +1,3 @@
 Meet Joinees Notifier
-Developed using Google Duet Ai in Google cloud console
+
+Developed by using Google Duet Ai in Google cloud console
